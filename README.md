@@ -1,4 +1,8 @@
 # Dio Dino Game 
-Jogo do Dinossauro feito pela Digital Inovation One utilizando apenas: Html, Css e JavaScript.
+Jogo do Dinossauro feito pela Digital Inovation One utilizando apenas: HTML, CSS e JavaScript.
 
+## Link
+[github.io/dio-dino-game](https://israelfer.github.io/dio-dino-game)
+
+## Prévia
 ![screenshot](example.png?raw=true "screenshot")
