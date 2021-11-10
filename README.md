@@ -1,2 +1,4 @@
-# dio-dino-game
-Dino game for Digital Innovation One's lesson, using only JS, HTML and CSS
+# Dio Dino Game 
+Jogo do Dinossauro feito pela Digital Inovation One utilizando apenas: Html, Css e JavaScript.
+
+![screenshot](example.png?raw=true "screenshot")
